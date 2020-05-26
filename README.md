@@ -1,2 +1,1 @@
-# jv
-JavaScript
+alert(document.cookie) ;
